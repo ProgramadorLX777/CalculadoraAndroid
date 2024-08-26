@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="txtTitulo">Calculadora</string>
+    <string name="txtPrimerValor">Ingrese un valor: </string>
+    <string name="rbSumar">+</string>
+    <string name="rbRestar">-</string>
+    <string name="rbMultiplicar">*</string>
+    <string name="rbDivision">/</string>
+    <string name="rbPotencia">^</string>
+    <string name="txtFooter">Desarrollado por Jorge Lecaro</string>
+    <string name="btnGuardar">Calcular</string>
+</resources>
